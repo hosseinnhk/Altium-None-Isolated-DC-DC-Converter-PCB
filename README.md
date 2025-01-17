@@ -18,11 +18,7 @@ An experimental prototype was constructed to validate the proposed system, featu
 - **Output voltage:** 350 V  
 - **Switching frequency:** 60 kHz  
 
-The experimental results demonstrate the effectiveness and robustness of the converter.
+![Image](https://github.com/user-attachments/assets/5253b544-2db1-4c88-9bf4-0b567c76eabe)
+![Image](https://github.com/user-attachments/assets/9cb4eb0f-11aa-49a9-b839-74a5eaed80d1)
 
-## Repository Contents
-
-This repository contains **Altium Designer files** related to the PCB design of the proposed DC–DC converter. These files include:  
-- Schematic files  
-- PCB layout  
 
